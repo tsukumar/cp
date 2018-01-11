@@ -5,8 +5,8 @@ void main()
 int c,lowercase,uppercase;
 printf("enter the vowel");
 scanf("%d",&c);
-lowercase(c='a'||c='e'
-uppercase(c='a
+lowercase(c='a'||c='e'||c='i'||c='o'||c='u');
+uppercase(C='A'||C='E'||C='I'||C='O'||C='U')'
 if(lowercase||uppercase)
 {
 printf("it is vowel");
